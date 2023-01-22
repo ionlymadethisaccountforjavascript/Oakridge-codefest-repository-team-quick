@@ -98,6 +98,7 @@ while True:
             print("\n")
             print(wk.summary(qspeak,5))
             speak(wk.summary(qspeak,5)) 
+            print("\n")
         elif opt==2:
             print("Please enter your illness or condition: ") 
             speak("Please enter your illness or condition: ")
@@ -121,4 +122,5 @@ while True:
             speak(symp)
             print("\n")
         elif opt==4:
+         speak("Thank you for using Quick Doc")
             break
