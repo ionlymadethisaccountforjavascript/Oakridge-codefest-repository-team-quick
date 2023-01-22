@@ -1,5 +1,5 @@
 # Oakridge-codefest-repository-team-quick
- project name: QuikDoc
+ project name: QuickDoc
 Team Name: Quick
 Team Members:
     Daksh Aggarwal
